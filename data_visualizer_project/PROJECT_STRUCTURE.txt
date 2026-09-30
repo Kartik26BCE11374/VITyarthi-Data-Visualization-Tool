@@ -1,0 +1,11 @@
+data_visualizer_project/
+|
+|-- main.py                 Main program and user interaction
+|-- data_loader.py          Loads CSV, Excel and JSON
+|-- analyzer.py             Detects column types and selects columns
+|-- visualizer.py           Generates charts
+|-- requirements.txt        Python dependencies
+|-- sample_data.csv         Sample dataset
+|-- run_windows.bat         Windows run shortcut
+|-- README.md               Documentation
+|-- PROJECT_STRUCTURE.txt   Project structure
