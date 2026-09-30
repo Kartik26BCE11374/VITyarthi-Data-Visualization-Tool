@@ -1,0 +1,21 @@
+VITyarthi_Data_Visualization_Project/
+├── main.py
+├── README.md
+├── statement.md
+├── requirements.txt
+├── CONTRIBUTING.md
+├── LICENSE
+├── run_windows.bat
+├── data/sample_data.csv
+├── src/__init__.py
+├── src/cli.py
+├── src/data_loader.py
+├── src/analyzer.py
+├── src/visualizer.py
+├── src/reporter.py
+├── tests/test_project.py
+├── docs/architecture.md
+├── docs/workflow.md
+├── docs/uml.md
+├── docs/report_content.md
+└── outputs/                 # generated at runtime
